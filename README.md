@@ -8,6 +8,7 @@
 ```bash
 $ yarn
 ```
+Copy .env.example and create a .env file.
 
 ## Running the app
 
