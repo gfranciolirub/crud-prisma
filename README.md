@@ -9,7 +9,7 @@
 $ yarn
 ```
 Copy .env.example and create a .env file.
-
+1
 ## Running the app
 
 ```bash
